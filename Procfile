@@ -1,0 +1,1 @@
+web: gunicorn aedapp2.wsgi
