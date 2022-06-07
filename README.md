@@ -1,6 +1,4 @@
 # 🏥 松山市AED設置マップ
-
-## 📷 image or gif
 ![20220607_120601](https://user-images.githubusercontent.com/84378453/172287655-3427d000-229c-422a-a0c0-51bce50b1ffc.gif)
 
 ## Overview
