@@ -30,6 +30,10 @@
 - AED設置マップだけでなく救急医療機関などもマップにプロットした。
 ![20220607_111627](https://user-images.githubusercontent.com/84378453/172281749-00021536-472d-4a2c-a439-166c3d597fa2.gif)
 
+- feedparserを使用してAEDについてのニュースなども表示。
+![スクリーンショット 2022-06-07 133534](https://user-images.githubusercontent.com/84378453/172297654-e59b8221-8a8c-4a7e-bace-b7d8b92e2913.png)
+
+
 ## Reference
 - Markerのiconのマーク
 https://chayarokurokuro.hatenablog.com/entry/2020/09/02/212350
