@@ -7,3 +7,4 @@ tzdata==2022.1
 wheel==0.37.1
 gunicorn
 whitenoise
+feedparser
