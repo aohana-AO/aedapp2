@@ -25,7 +25,6 @@
 ![スクリーンショット 2022-06-07 111144](https://user-images.githubusercontent.com/84378453/172280924-53afaf55-927f-4ca9-af26-14577ddaf7ad.png)
 
 - 位置情報ボタンを押すと現在地を表示する。
-![スクリーンショット 2022-06-07 105059](https://user-images.githubusercontent.com/84378453/172280727-012fce8b-b8e3-4f43-9e35-349b0542b9d0.png)
 
 - その下のマップ変更ボタンを押すとタイルが変更される。
 ![スクリーンショット 2022-06-07 105621](https://user-images.githubusercontent.com/84378453/172280668-637f9685-b11e-49a3-b6aa-4de690095fc0.png)
