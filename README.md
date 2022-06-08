@@ -35,6 +35,8 @@
 
 
 ## Reference
+- leaflet基本
+https://ktgis.net/service/leafletlearn/advanced.html#step12
 - Markerのiconのマーク
 https://chayarokurokuro.hatenablog.com/entry/2020/09/02/212350
 https://github.com/domoritz/leaflet-locatecontrol
