@@ -4,7 +4,7 @@
 ## Overview
 愛媛県松山市のオープンデータをもとにfoliumで「AED設置箇所,救急医療機関,松山市の医療機関すべて」の場所をプロットしたleafletの地図を作製。
 それをまとめdjangoでwebアプリの形にしました。
-
+<a href="https://matuyama-aedapp.herokuapp.com/">アプリURL</a>
 ## Requirement
 ### base
 - Windows10
